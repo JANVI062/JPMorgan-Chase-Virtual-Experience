@@ -13,10 +13,10 @@ Implement the Perspective open source code in preparation for data visualization
 ``` React ``` &nbsp;
 ``` Typescript ``` &nbsp;
 ``` Web Applications ``` &nbsp; <br>
-[View the task ->]()
+[View the task ->](https://github.com/JANVI062/JPMorgan-Chase-Virtual-Experience/tree/master/JPMC-tech-task-2-PY3)
 #### 3. Display data visually for traders
 Use Perspective to create the chart for the trader’s dashboard <br>
 ``` Technical Communication ``` &nbsp;
 ``` Financial Analysis ``` &nbsp;
 ``` Web Applications ``` &nbsp; <br>
-[View the task ->]()
+[View the task ->](https://github.com/JANVI062/JPMorgan-Chase-Virtual-Experience/tree/master/JPMC-tech-task-3-PY3)
